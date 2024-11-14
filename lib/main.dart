@@ -68,7 +68,7 @@ class MyApp extends StatelessWidget {
                       Expanded(
                         child: Center(
                           child: Text(
-                            'Swipe to ...',
+                            'Desliza para ver...',
                             style: TextStyle(
                               color: Colors.black,
                               fontSize: 18,
